@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working on **Anime WatchList**, a web application for tracking your favorite anime shows and movies. It’s a fun project that allows me to combine my love for anime with my coding skills!
+I'm currently working on **Anime Fortress**, a web application for tracking your favorite anime shows and movies. It’s a fun project that allows me to combine my love for anime with my coding skills!
 
 I’m currently learning **Full-Stack Development** and diving into exciting technologies like **Node.js**, **React**, and **MongoDB**. Each new concept I learn opens up new possibilities, and I’m thrilled to explore them!
 
