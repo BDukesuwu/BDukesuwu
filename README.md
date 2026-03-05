@@ -1,15 +1,47 @@
-### Hi there 👋
+## Hi there 👋
 
-I'm currently working on **Anime Fortress**, a web application for tracking your favorite anime shows and movies. It’s a fun project that allows me to combine my love for anime with my coding skills!
+I’m currently focused on **building strong programming fundamentals with Python and Computer Science concepts**, while documenting my progress through daily coding practice and projects.
 
-I’m currently learning **Full-Stack Development** and diving into exciting technologies like **Node.js**, **Google OAuth**, **API's**, **React**, and **MongoDB**. Each new concept I learn opens up new possibilities, and I’m thrilled to explore them!
+---
 
-I’m eager to collaborate on projects that enhance user experiences and build interactive applications. Teamwork can bring so many creative ideas to life, and I’m always looking to connect with others who share this passion.
+## 🎓 Education
 
-I’m seeking help with understanding advanced concepts in **JavaScript**, **API's** and **React**. If you have any tips or resources, I’d be grateful for your guidance!
+I’m pursuing a **Bachelor’s degree in Computer Science at Florida International University** and participating in the **CodePath AI-Native Software Engineer Program**, where I’m continuing to strengthen my technical foundations and prepare for future software engineering internships.
 
-Feel free to ask me about my projects, UI/UX design, or any recommendations for anime shows—I'm always excited to chat about them!
+---
 
-You can reach me at: [emi.uwaa@gmail.com](mailto:emi.uwaa@gmail.com). 
+## 💻 What I'm Working On
 
-My pronouns are She/Her, and I love reading anime and exploring different genres of anime—there’s always something new to discover! ⚡
+Right now my focus is:
+
+* Practicing **Python daily** to strengthen core programming skills
+* Improving **computational problem-solving and programming logic**
+* Building and organizing coding projects on **GitHub**
+* Learning how to structure clean and readable code
+
+My goal is to build a strong base that supports **future software engineering roles and technical projects**.
+
+---
+
+## 📚 Currently Learning
+
+I’m actively improving my skills in:
+
+* **AI-Native Engineering**
+* **Python programming**
+* **APIs and backend logic**
+* **Computer science fundamentals**
+* **Programming problem solving**
+
+---
+
+## 🤝 Collaboration
+
+I enjoy connecting with other developers who are **learning, building projects, and preparing for internships**. Sharing progress and ideas makes the process more motivating.
+
+---
+
+## 🎌 Fun Fact
+
+Outside of coding I enjoy **anime, streaming, and anything to do with AI**; feel free to send recommendations!
+
